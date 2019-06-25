@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"ayu",
+		"BracketHighlighter",
+		"Color Highlight",
+		"Djaneiro",
+		"MarkdownPreview",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"TypeScript",
+		"TypeScript Syntax",
+		"Vue Syntax Highlight"
+	]
+}

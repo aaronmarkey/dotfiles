@@ -1,0 +1,4 @@
+alias ls="ls -al"
+alias grep="grep --color"
+alias c="clear"
+alias svim="sudo vim"

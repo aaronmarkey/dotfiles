@@ -1,0 +1,13 @@
+mkcd () {
+  mkdir "$1"
+  cd "$1"
+}
+
+docker-bash() {
+  if [ $# -ne 1 ]; then
+    echo "Usage: $FUNCNAME CONTAINER_ID"
+    return 1
+  fi
+
+  docker exec -it $1 /bin/bash
+}
