@@ -7,7 +7,7 @@
 	"caret_style": "blink",
 	"color_scheme": "Packages/ayu/ayu-light.tmTheme",
 	"detect_indentation": false,
-    "dictionary": "Packages/Language - English/en_US.dic",
+	"dictionary": "Packages/Language - English/en_US.dic",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -19,7 +19,7 @@
 		"__pycache__"
 	],
 	"font_face": "Fira Code",
-	"font_size": 15,
+	"font_size": 18,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -41,7 +41,7 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"show_navigation_bar": false,
-    "spell_check": true,
+	"spell_check": true,
 	"tab_size": 4,
 	"theme": "ayu-light.sublime-theme",
 	"translate_tabs_to_spaces": true,
