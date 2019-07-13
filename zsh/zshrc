@@ -28,8 +28,6 @@ source ~/.paths
 # pure prompt init.
 autoload -U promptinit; promptinit
 prompt pure
-prompt_newline='%666v'
-PROMPT=" $PROMPT"
 
 
 # the fuck?
