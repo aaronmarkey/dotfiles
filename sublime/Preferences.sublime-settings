@@ -19,7 +19,7 @@
 		"__pycache__"
 	],
 	"font_face": "Fira Code",
-	"font_size": 15,
+	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -35,7 +35,8 @@
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
-		80
+		80,
+        120
 	],
 	"scroll_past_end": true,
 	"show_encoding": true,
