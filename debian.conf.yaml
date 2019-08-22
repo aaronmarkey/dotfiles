@@ -6,3 +6,4 @@
 
 - link:
     ~/.paths: path/debian
+    ~/.config/sublime-text-3/Packages/User/Preferences.sublime-settings: sublime/Preferences.sublime-settings
