@@ -38,8 +38,11 @@ eval $(thefuck --alias)
 eval "$(direnv hook zsh)"
 
 # pyenv
+export PATH="/home/aaron/.pyenv/bin:$PATH"
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
+
+# OpenSSL
 export PATH="/usr/local/opt/openssl/bin:$PATH"
 
 
