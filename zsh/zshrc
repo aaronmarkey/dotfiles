@@ -15,6 +15,7 @@ export CLICOLOR=1
 
 # aliases
 source ~/.aliases
+source ~/.aliases-os
 
 
 # functions

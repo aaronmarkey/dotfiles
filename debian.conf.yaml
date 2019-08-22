@@ -5,6 +5,7 @@
 - clean: ['~']
 
 - link:
-    ~/.paths: path/debian
+    ~/.paths: zsh/paths-debian
+    ~/.aliases-os: zsh/aliases-debian
     ~/.config/sublime-text-3/Packages/User/Preferences.sublime-settings: sublime/Preferences.sublime-settings
     ~/.config/terminator/config: terminator/config

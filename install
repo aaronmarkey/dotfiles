@@ -1,5 +1,14 @@
 #!/usr/bin/env bash
 
+# An OS should be provided
+if [ "${#[@]}" -eq 0 ]
+then
+    echo "Select an OS: macos, debian."
+    return -1
+fi
+
+
+# Install
 set -e
 
 DEFAULT_CONFIG_PREFIX="default"
