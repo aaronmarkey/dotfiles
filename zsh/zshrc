@@ -1,0 +1,51 @@
+# zsh setup
+export ZSH=$HOME/.oh-my-zsh
+plugins=(
+  git
+  thefuck
+  sublime
+  zsh-syntax-highlighting
+)
+source $ZSH/oh-my-zsh.sh
+
+
+# basic options
+export CLICOLOR=1
+
+
+# aliases
+source ~/.aliases
+
+
+# functions
+source ~/.functions
+
+
+# paths
+source ~/.paths
+
+
+# pure prompt init.
+autoload -U promptinit; promptinit
+prompt pure
+
+
+# the fuck?
+eval $(thefuck --alias)
+
+
+# direnv
+eval "$(direnv hook zsh)"
+
+# pyenv
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
+export PATH="/usr/local/opt/openssl/bin:$PATH"
+
+
+# optional sources
+work="$HOME/.work"
+if [ -f "$work" ]
+then
+	source $work
+fi
