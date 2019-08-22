@@ -34,9 +34,6 @@ prompt pure
 eval $(thefuck --alias)
 
 
-# RVM
-source $HOME/.rvm/scripts/rvm
-
 # direnv
 eval "$(direnv hook zsh)"
 
