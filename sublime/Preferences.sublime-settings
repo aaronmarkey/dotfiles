@@ -1,8 +1,5 @@
 {
-    "draw_minimap_border": false,
-    "draw_minimap": false,
-    "hide_minimap": true,
-    "always_show_minimap_viewport": false,
+	"always_show_minimap_viewport": false,
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 1,
 	"caret_extra_top": 1,
@@ -11,6 +8,8 @@
 	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
 	"detect_indentation": false,
 	"dictionary": "Packages/Language - English/en_US.dic",
+	"draw_minimap": false,
+	"draw_minimap_border": false,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -23,6 +22,7 @@
 	],
 	"font_face": "Fira Code",
 	"font_size": 11,
+	"hide_minimap": true,
 	"highlight_line": true,
 	"ignored_packages":
 	[
