@@ -20,3 +20,8 @@ docker-bash() {
 gbbd () {
   git branch -d `git branch --list "$1"`
 }
+
+# delete multiple git branches, force
+gbbD () {
+  git branch -D `git branch --list "$1"`
+}
