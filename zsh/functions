@@ -1,8 +1,11 @@
+# make directory and change to it
 mkcd () {
   mkdir "$1"
   cd "$1"
 }
 
+
+# "ssh" into docker container
 docker-bash() {
   if [ $# -ne 1 ]; then
     echo "Usage: $FUNCNAME CONTAINER_ID"
@@ -10,4 +13,10 @@ docker-bash() {
   fi
 
   docker exec -it $1 /bin/bash
+}
+
+
+# delete multiple git branches
+gbbd () {
+  git branch -d `git branch --list "$1"`
 }
