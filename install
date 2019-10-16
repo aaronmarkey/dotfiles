@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 # An OS should be provided
-if [ "${#[@]}" -eq 0 ]
+if [ "$#" -ne 1 ]
 then
     echo "Select an OS: macos, debian."
-    return -1
+    exit -1
 fi
 
 
