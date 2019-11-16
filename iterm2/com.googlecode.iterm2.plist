@@ -1048,7 +1048,7 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>289 204 592 584 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>800 99 857 627 0 0 2048 1257 </string>
+	<string>245 171 843 588 0 0 2048 1257 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>0 283 585 429 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
@@ -1383,7 +1383,7 @@
 			<key>Disable Window Resizing</key>
 			<true/>
 			<key>Draw Powerline Glyphs</key>
-			<false/>
+			<true/>
 			<key>Flashing Bell</key>
 			<false/>
 			<key>Foreground Color</key>
@@ -2589,7 +2589,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>E9AF7F76-A621-4553-B66D-E9D214BB6604</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>40</integer>
+	<integer>42</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
