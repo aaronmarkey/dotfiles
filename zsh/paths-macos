@@ -1,2 +1,0 @@
-export PATH="/Library/Frameworks/Python.framework/Versions/3.4/bin:${PATH}"
-export PATH="/Library/Frameworks/Python.framework/Versions/3.5/bin:${PATH}"
