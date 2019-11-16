@@ -3,6 +3,7 @@
 # taps
 tap "homebrew/bundle"
 tap "homebrew/cask"
+tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "homebrew/services"
@@ -37,9 +38,9 @@ brew "zlib"
 cask "1password"
 cask "alfred"
 cask "bartender"
-cask "brave-browser"
 cast "daisydisk"
 cask "firefox-developer-edition"
+cask "font-fira-code"
 cask "google-backup-and-sync"
 cask "iterm2"
 cask "osxfuse"
@@ -48,7 +49,6 @@ cask "postico"
 cask "spotify"
 cask "sublime-merge"
 cask "sublime-text"
-cask "transmission"
 cask "veracrypt"
 cask "vlc"
 
@@ -56,7 +56,7 @@ cask "vlc"
 mas "Affinity Designer", id: 824171161
 mas "Fantastical", id: 975937182
 mas "Magnet", id: 441258766
-mas "Slack", id: 803453959
+mas "Reeder", id: 1449412482
 mas "Telegram", id: 747648890
 mas "Textual IRC Client", id: 1262957439
 mas "The Unarchiver", id: 425424353

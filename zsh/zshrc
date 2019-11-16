@@ -39,7 +39,7 @@ eval $(thefuck --alias)
 eval "$(direnv hook zsh)"
 
 # pyenv
-export PATH="/home/aaron/.pyenv/bin:$PATH"
+export PATH="~/.pyenv/bin:$PATH"
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
 
