@@ -57,3 +57,9 @@ eval "$(pyenv virtualenv-init -)"
 
 # OpenSSL
 export PATH="/usr/local/opt/openssl/bin:$PATH"
+
+
+# Additional Custom Configs
+for f in ~/.zshrc-*; do
+    . $f
+done
