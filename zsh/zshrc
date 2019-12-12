@@ -60,6 +60,10 @@ export PATH="/usr/local/opt/openssl/bin:$PATH"
 
 
 # Additional Custom Configs
-for f in ~/.zshrc-*; do
-    . $f
-done
+unsetopt nomatch
+foreach file (`echo ~/.zshrc-*`)
+    if [[ -a $file ]]; then
+        source $file
+    fi
+end
+setopt nomatch
