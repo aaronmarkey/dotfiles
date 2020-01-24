@@ -5,7 +5,7 @@
 	"caret_extra_top": 1,
 	"caret_extra_width": 1,
 	"caret_style": "blink",
-	"color_scheme": "Packages/ayu/ayu-light.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
 	"detect_indentation": false,
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"draw_minimap": false,
@@ -20,8 +20,8 @@
 		"node_modules",
 		"__pycache__"
 	],
-	"font_face": "Fira Code",
-	"font_size": 16,
+	"font_face": "JetBrains Mono Regular",
+	"font_size": 13,
 	"hide_minimap": true,
 	"highlight_line": true,
 	"ignored_packages":
@@ -33,8 +33,8 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
@@ -47,7 +47,7 @@
 	"show_navigation_bar": false,
 	"spell_check": true,
 	"tab_size": 4,
-	"theme": "ayu-light.sublime-theme",
+	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"ui_native_titlebar": false,
