@@ -9,7 +9,6 @@
 		"Anaconda",
 		"ayu",
 		"BracketHighlighter",
-		"Color Highlight",
 		"Djaneiro",
 		"Dockerfile Syntax Highlighting",
 		"Git",
@@ -19,9 +18,6 @@
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-eslint",
-		"TypeScript",
-		"TypeScript Syntax",
 		"Vue Syntax Highlight"
 	]
 }

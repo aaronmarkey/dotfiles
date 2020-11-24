@@ -1,0 +1,9 @@
+{
+    "pep8_max_line_length": 120,
+    "pep8": true,
+    "anaconda_linting": true,
+    "anaconda_linting_behaviour": "always",
+    "complete_parameters": true,
+    "complete_all_parameters": true,
+    "validate_imports": true
+}
