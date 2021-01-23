@@ -2,10 +2,11 @@
     link:
       relink: true
 
-- clean: ['~']
+- clean: ["~"]
 
 - link:
     ~/.vimrc: vim/vimrc
     ~/.zshrc: zsh/zshrc
     ~/.functions: zsh/functions
     ~/.aliases: zsh/aliases
+    ~/.config/starship.toml: starship/starship.toml
