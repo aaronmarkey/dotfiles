@@ -4,6 +4,6 @@
     "anaconda_linting": true,
     "anaconda_linting_behaviour": "always",
     "complete_parameters": true,
-    "complete_all_parameters": true,
+    "complete_all_parameters": false,
     "validate_imports": true
 }
