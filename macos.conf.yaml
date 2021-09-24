@@ -8,9 +8,9 @@
     ~/.paths: zsh/paths-macos
     ~/.aliases-os: zsh/aliases-macos
     ~/.zshrc-os: zsh/zshrc-macos
-    ~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings: sublime/Preferences.sublime-settings
-    ~/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-settings: sublime/JavaScript.sublime-settings
-    ~/Library/Application Support/Sublime Text 3/Packages/User/Vue Component.sublime-settings: sublime/Vue Component.sublime-settings
-    ~/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings: sublime/Package Control.sublime-settings
-    ~/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings: sublime/Anaconda.sublime-settings
+    ~/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings: sublime/Preferences.sublime-settings
+    ~/Library/Application Support/Sublime Text/Packages/User/JavaScript.sublime-settings: sublime/JavaScript.sublime-settings
+    ~/Library/Application Support/Sublime Text/Packages/User/Vue Component.sublime-settings: sublime/Vue Component.sublime-settings
+    ~/Library/Application Support/Sublime Text/Packages/User/Package Control.sublime-settings: sublime/Package Control.sublime-settings
+    ~/Library/Application Support/Sublime Text/Packages/User/Anaconda.sublime-settings: sublime/Anaconda.sublime-settings
     ~/Library/Preferences/com.googlecode.iterm2.plist: iterm2/com.googlecode.iterm2.plist
