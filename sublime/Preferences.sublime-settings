@@ -25,6 +25,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"SideBarEnhancements",
 		"Vintage",
 	],
 	"indent_guide_options":
