@@ -20,7 +20,7 @@
 		"__pycache__"
 	],
 	"font_face": "JetBrains Mono Regular",
-	"font_size": 13,
+	"font_size": 14,
 	"hide_minimap": true,
 	"highlight_line": true,
 	"ignored_packages":
@@ -52,7 +52,7 @@
 	"ui_separator": true,
 	"ui_wide_scrollbar": true,
 	"word_wrap": true,
-	"color_scheme": "auto",
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
 	"dark_color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
 	"light_color_scheme": "Packages/Color Scheme - Default/Sixteen.sublime-color-scheme",
 	"dark_theme": "Default Dark.sublime-theme",
